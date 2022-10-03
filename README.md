@@ -19,6 +19,7 @@ https://miro.com/app/board/uXjVPR9H4-U=/?share_link_id=794806137356
 
 WireFrame UX
 
+https://miro.com/app/board/uXjVPRdSUWw=/?share_link_id=9445945038
 
 UI
 
